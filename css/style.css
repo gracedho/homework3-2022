@@ -160,7 +160,7 @@ img {
 }
 
 .text {
-  text-align: center;
+  justify-content: center;
   max-height: 25vh;
   overflow: scroll;
 }
